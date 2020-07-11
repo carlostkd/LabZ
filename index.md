@@ -10,8 +10,7 @@ Our Goal is establish a local Ethical Hacker and cybersecurity school in Switzer
 
 
 
-
-```Recruting
+## Recruting
 In this moment we are recruiting more graduated employees and studying the best place to open the school.
 
 If you are a cybersecurity expert with minimal average knowledge, you can ask to join to us, you can either to

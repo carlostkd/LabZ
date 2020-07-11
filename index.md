@@ -9,7 +9,7 @@ Our Goal is establish a local Ethical Hacker and cybersecurity school in Switzer
 ![pic01](https://user-images.githubusercontent.com/11921177/87225338-71c82000-c38c-11ea-90e4-643f003d821f.jpg)
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```Recruting
 In this moment we are recruiting more graduated employees and studying the best place to open the school.
